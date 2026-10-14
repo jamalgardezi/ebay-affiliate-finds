@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jamalgardezi.github.io/ebay-affiliate-finds/sitemap.xml
